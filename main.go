@@ -7,4 +7,5 @@ func main() {
 	var base int
 	base = 47
 	fmt.Printf("base: %d\n", base)
+	fmt.Println("vadim gay")
 }
