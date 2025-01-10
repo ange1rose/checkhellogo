@@ -8,4 +8,5 @@ func main() {
 	base = 47
 	fmt.Printf("base: %d\n", base)
 	fmt.Println("vadim gay")
+	fmt.Println("beka gay")
 }
